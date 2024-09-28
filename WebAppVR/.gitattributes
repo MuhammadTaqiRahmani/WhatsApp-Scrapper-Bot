@@ -1,6 +1,8 @@
-﻿namespace WebAppVR
-{
-    public class _
-    {
-    }
-}
+﻿# Auto detect text files and normalize them to LF in repo but CRLF in working directory
+* text=auto
+
+# Handle specific file types
+*.css text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.cs text eol=lf
