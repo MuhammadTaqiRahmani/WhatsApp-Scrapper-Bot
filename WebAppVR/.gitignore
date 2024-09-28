@@ -26,3 +26,8 @@
 [Dd]ebug*/
 [Rr]elease*/
 
+.vs/
+*.suo
+*.bin
+
+
